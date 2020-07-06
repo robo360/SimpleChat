@@ -7,4 +7,4 @@
  
  ## Walkthrough
  
- ![Walkthrough](image src= "https://i.imgur.com/3UZ6ZNy.png)
+ ![Walkthrough](https://iz.imgur.com/3UZ6ZNy.png)
